@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+	package
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:18:11-54
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:1-29:12
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:21:22-76
+application
+ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:23:5-28:19
+	android:label
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:26:13-45
+	android:icon
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:25:13-47
+	android:allowBackup
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:24:13-39
+	android:theme
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml:27:13-39
+uses-sdk
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\InstantApps-Multifeaturesampleapp\base\src\main\AndroidManifest.xml
